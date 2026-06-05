@@ -14,10 +14,6 @@ Cette application Android affiche une carte Google Maps, demande les permissions
 - Détection de l’état du GPS : boîte de dialogue pour ouvrir les paramètres si désactivé
 - Toasts de débogage pour chaque changement de position
 
-## 📱 Captures d’écran
-
-*(Ajoute ici des images de l’application)*
-
 ## 🛠️ Technologies utilisées
 
 - **Android** (Java)
